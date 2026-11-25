@@ -45,7 +45,7 @@ Install [Python 3](https://www.python.org/downloads/) and [Git](https://git-scm.
 ## Usage
 
 ```bash
-git clone https://github.com/<your-username>/Mazen-Track.git
+git clone https://github.com/erthgetr325erst-boop/MA-TR.git)
 cd Mazen-Track
 pip install -r requirements.txt
 python3 MA-TR.py
